@@ -10,3 +10,18 @@ Some css classes:
 :focus - представляет элемент (например, ввод формы), который получил фокус. Обычно он запускается, когда пользователь щелкает или нажимает на элемент или выбирает его с Tabпомощью клавиши клавиатуры.
 
 ::selection - отвечает за выделение текста на странице с помощью зажатой левой кнопки мыши или другого способа. Он задается сам по себе, без привязки к какому-либо html-элементу.
+
+Flask initialization windows:
+
+pip install flask==0.9
+pip install flask-login
+pip install flask-openid
+pip install sqlalchemy==0.7.9
+pip install flask-sqlalchemy==0.16
+pip install sqlalchemy-migrate
+pip install flask-whooshalchemy==0.54a
+pip install flask-wtf==0.8.4
+pip install pytz==2013b
+pip install flask-babel==0.8
+pip install flup
+pip install --no-deps lamson chardet flask-mail
